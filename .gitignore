@@ -1,0 +1,9 @@
+# Hasil build tidak ikut disimpan ke Git
+*.exe
+*.o
+*.out
+*.app
+sinilai_v01
+
+# Folder konfigurasi lokal VS Code
+.vscode/
